@@ -13,7 +13,7 @@ import {
     Textarea,
 } from '@chakra-ui/react'
 
-export default function CreateGuide() {
+export default function CreateGuideForm() {
 
     return (
         <div>

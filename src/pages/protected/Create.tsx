@@ -1,10 +1,10 @@
-import { CreateGuide } from "../../features/guides"
+import { CreateGuideForm } from "../../features/guides"
 
 export default function Create() {
 
     return (
         <div>
-            <CreateGuide></CreateGuide>
+            <CreateGuideForm></CreateGuideForm>
         </div>
     )
 }
